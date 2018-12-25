@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1370e47b-79ff-4db0-829c-b687e7ffcfd4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.github/stale.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/auth/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/auth/backend/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/auth/backend/default.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/auth/backend/deny_all.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/auth/backend/kerberos_auth.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/client/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/client/api_client.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/client/json_client.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/client/local_client.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/common/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/common/experimental/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/common/experimental/delete_dag.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/common/experimental/get_dag_run_state.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/common/experimental/get_dag_runs.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/common/experimental/get_task.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/common/experimental/get_task_instance.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/common/experimental/mark_tasks.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/common/experimental/pool.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/api/common/experimental/trigger_dag.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/bin/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/bin/airflow" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/bin/airflow_scheduler_autorestart.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/bin/cli.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/dag/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/dag/base_dag.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/www/api/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/www/api/experimental/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/www/api/experimental/endpoints.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/airflow/www/app.py" />
-    </list>
+    <list default="true" id="1370e47b-79ff-4db0-829c-b687e7ffcfd4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,8 +54,8 @@
       <file leaf-file-name="jobs.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/airflow/jobs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="71" column="23" lean-forward="false" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+            <state relative-caret-position="648">
+              <caret line="78" column="36" lean-forward="true" selection-start-line="78" selection-start-column="36" selection-end-line="78" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -229,7 +195,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921729" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -307,8 +273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/airflow/jobs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="71" column="23" lean-forward="false" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+        <state relative-caret-position="648">
+          <caret line="78" column="36" lean-forward="true" selection-start-line="78" selection-start-column="36" selection-end-line="78" selection-end-column="36" />
           <folding />
         </state>
       </provider>
